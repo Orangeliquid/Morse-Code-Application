@@ -23,19 +23,19 @@ The Morse Code App is a Python program that offers a set of functionalities rela
 
 ### Installation
 1. Clone the repository:
-  ```bash
+   ```bash
     git clone https://github.com/Orangeliquid/morse-code-app.git
     cd morse-code-app
-  ```
+   ```
 2. Install dependencies:
    ```bash
     pip install -r requirements.txt
    ```
 ### Usage
 1. Run the program:
-  ```bash
+   ```bash
     python main.py
-  ```
+   ```
 2. Follow the on-screen prompts to interact with the Morse Code App.
 
 ## Dependencies
