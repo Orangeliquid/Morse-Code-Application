@@ -44,13 +44,3 @@ The Morse Code App is a Python program that offers a set of functionalities rela
 
 ## License
 This project is licensed under the [MIT License](LICENSE.txt).
-
-
-
-
-
-
-
-
-
-
